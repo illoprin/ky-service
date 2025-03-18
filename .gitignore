@@ -3,3 +3,5 @@ _sketches
 ky-id-backend/database/*
 ky-id-backend/local.env
 ky-id-backend/config/*
+ky-tracker/config/*
+ky-tracker/local.env
